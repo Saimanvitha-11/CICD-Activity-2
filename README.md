@@ -120,4 +120,5 @@ Repeat the same for:
 # 🎉 Completed: RBAC for EC2 using AWS IAM
 This project successfully demonstrates how to implement Role-Based Access Control for EC2 using IAM groups, policies, and users.
 
+[Click here to watch the video](https://youtu.be/5_RNLqNQFAI)
 
